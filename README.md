@@ -1,2 +1,4 @@
 # gypsice_from_scratch
-ZERO_TO_ONE
+
+## main point: build my application step by step
+## Schedule: TBD
